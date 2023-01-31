@@ -49,7 +49,7 @@ To check the provability and compilability with:
 $ make check
 ``` 
 
-Start the KeY Gui using your `project.key` with
+Start the KeY GUI using your `project.key` with
 
 ```
 $ make run 
