@@ -9,7 +9,7 @@ Currently this template bundles KeY 2.10.0 and ci-tool 1.4.0. Both are
 licensed under GPL.
 
 
-## Features and Best Practises
+## Features and Best Practices
 
 * Store the version of KeY along with your proof and source files.
   Proof reloading is very sensitive accross of KeY versions and
